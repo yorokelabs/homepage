@@ -127,11 +127,11 @@ header nav {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 72px;
+    height: 130px;
 }
 
 .nav-logo {
-    height: 36px;
+    height: 108px;
     width: auto;
 }
 
@@ -142,7 +142,7 @@ header nav {
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding-top: 72px;
+    padding-top: 130px;
 }
 
 .hero-logo {
