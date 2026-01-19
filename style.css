@@ -53,6 +53,18 @@ header nav {
     letter-spacing: -0.02em;
 }
 
+.nav-logo {
+    height: 40px;
+    width: auto;
+}
+
+.hero-logo {
+    max-width: 280px;
+    width: 100%;
+    height: auto;
+    margin-bottom: 24px;
+}
+
 /* Hero Section */
 .hero {
     min-height: 100vh;
@@ -96,6 +108,11 @@ header nav {
     color: var(--text-light);
     max-width: 720px;
     line-height: 1.8;
+    margin-bottom: 16px;
+}
+
+.about p:last-child {
+    margin-bottom: 0;
 }
 
 /* Contact Section */
