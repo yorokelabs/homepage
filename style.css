@@ -125,13 +125,13 @@ header {
 
 header nav {
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
-    height: 130px;
+    height: 64px;
 }
 
 .nav-logo {
-    height: 108px;
+    height: 32px;
     width: auto;
 }
 
@@ -142,11 +142,11 @@ header nav {
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding-top: 130px;
+    padding-top: 64px;
 }
 
 .hero-logo {
-    max-width: 200px;
+    max-width: 400px;
     width: 100%;
     height: auto;
     margin-bottom: 32px;
